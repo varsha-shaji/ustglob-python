@@ -1,0 +1,5 @@
+Python is easy to learn.
+File handling is very useful.
+This program writes data into a file.
+Each sentence is written on a new line.
+Text files store information permanently.
